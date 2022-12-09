@@ -39,3 +39,6 @@ Con `Docker` podemos crear un contenedor en el cual podra esta nuestra API y pod
 ### **URLs usados**
 + Creacion de API: https://www.youtube.com/watch?v=dAQENEPAqsc&list=PLt6P0bD6lLRorpc7-VqFaG0ZP4azgzwta&index=3
 + Ayuda con Doker: https://www.youtube.com/watch?v=BvvH3ohis6E&list=PLt6P0bD6lLRorpc7-VqFaG0ZP4azgzwta&index=6
+
+### **Video del PI**
++ https://drive.google.com/drive/folders/1CGYIhpnhYhSxpdu5FIaDWXVra0qzQb_O?usp=sharing
