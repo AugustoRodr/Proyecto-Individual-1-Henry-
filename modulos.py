@@ -159,7 +159,7 @@ def funcion_query1(año, plataforma, tipo ,df):#(min/Seasons)
         return df_query_1
     else:
         df_query_1=df[((df['Plataforma']==plataforma) & (df['anio']==año))]
-        df_query_1=df[df['duration(Season)']==max(df['duration(Season)'])]
+        df_query_1=df_query_1[df_query_1['duration(Season)']==max(df_query_1['duration(Season)'])]
         return df_query_1
 
 
