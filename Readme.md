@@ -19,8 +19,6 @@ la ingesta de datos de diversas fuentes utlizando `Python`, creacion de una API 
 
 5. Realizar consultas solicitadas
 
-## **Video del PI**
-+ url de youtube
 
 ## **ETL - EDA**
 Iniciamos el proyecto con la carga de las 4 tablas que conseguiremos en la carpeta **Datasets**.
